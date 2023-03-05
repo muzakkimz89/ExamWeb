@@ -1,0 +1,12 @@
+front end
+
+
+backend
+-user(nama,id,jumlah tes) v
+
+-soal(pemilik,judul,deskripsi,[soal,jawaban(4),jawaban benar]) v
+
+-jawaban(nama penjawab,pemilik soal, [idsoal,jawaban],waktu mulai, waktu selesai)
+
+admin
+-
